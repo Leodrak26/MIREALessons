@@ -1,0 +1,3 @@
+/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug/CMakeFiles/4_Task.dir

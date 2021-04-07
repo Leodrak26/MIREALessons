@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="4_Task"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_Task">
+				<Option output="/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug/4_Task" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_Task"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_Task/fast">
+				<Option output="/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug/4_Task" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Applications/Учеба/Вычислительные системы/4 Task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_Task/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Applications/Учеба/Вычислительные\ системы/4\ Task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Applications/Учеба/Вычислительные системы/4 Task/main.c">
+			<Option target="4_Task"/>
+		</Unit>
+		<Unit filename="/Applications/Учеба/Вычислительные системы/4 Task/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
